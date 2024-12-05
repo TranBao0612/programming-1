@@ -23,7 +23,7 @@ int main()
 
     struct MultiArray* array = malloc(sizeof(struct MultiArray));
 
-    // create 3x4 array
+    // create 3x2x2 array
     array->data = malloc(3 * 2 * 2 * sizeof(int));
 
     // assign random data (0 -> 9)
