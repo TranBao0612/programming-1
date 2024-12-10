@@ -5,7 +5,7 @@
             "name": "C Debug",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/lab_w4/odd_and_even",
+            "program": "${workspaceFolder}/lab_w10/datetime",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
